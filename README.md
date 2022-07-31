@@ -236,9 +236,8 @@ Transform all photo
 | DenseNet169-IBN    | 44.8 | 84.6 | 87.8 | 92.1 |
 | TransReID          | 50.3 | 87.7 | 90.9 | 93.6 |
 
-## Citation
+## Reference
 
-If you find this work useful in your research, please consider citing:
 ```
 @inproceedings{luo2021empirical,
  title={An Empirical Study of Vehicle Re-Identification on the AI City Challenge},
