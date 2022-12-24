@@ -16,7 +16,7 @@ The code is modified from [AICITY2020_DMT_VehicleReID](https://github.com/heshut
 
 2. Run `git clone `
 
-3. Install dependencies: `pip install  requirements.txt`
+3. Install dependencies: `pip install -r requirements.txt`
 
    We use cuda 11.0/python 3.7/torch 1.6.0/torchvision 0.7.0 for training and testing.
 
