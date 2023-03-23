@@ -236,6 +236,11 @@ Transform all photo
 | DenseNet169-IBN    | 44.8 | 84.6 | 87.8 | 92.1 |
 | TransReID          | 50.3 | 87.7 | 90.9 | 93.6 |
 
+CCUCSMVL-vehicle-reid DATASET
+The License is shown in Form.
+Here the apply form is:
+https://forms.gle/3k92bvfQPcudsD5Z9
+
 ## Reference
 
 ```
