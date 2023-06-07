@@ -196,8 +196,9 @@ python PTGAN.py --config_file configs/stage2/resnext101a_384_veri_gan.yml MODEL.
 
 ## VeRi-776 Result
 
+This result is the ReID test result.
 We train the model on AICITY2021 dataset, and test on VeRi-776 by stage2/v1 ReID model.
-(will be updated other results in the future)
+(will be updated other results in the future.)
 
 **Baseline**
 | Backbones          | mAP  | R-1  | R-5  | R-10 |
@@ -245,4 +246,18 @@ Transform all photo
  booktitle={Proc. CVPR Workshops},
  year={2021}
 }
+```
+
+## Citation
+If you find our work valuable for your research, we kindly request that you consider citing the following reference:
+```
+@INPROCEEDINGS{10096633,
+  author={Hu, Chan-Shuo and Tseng, Sung-Wei and Fan, Xin-Yun and Chiang, Chen-Kuo},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Vehicle View Synthesis by Generative Adversarial Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10096633}}
 ```
