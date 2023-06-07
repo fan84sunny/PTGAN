@@ -1,4 +1,8 @@
 # PTGAN
+Vehicle View Synthesis by Generative Adversarial Network, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023 (Accepted).
+
+Detailed information of Vehicle View Synthesis by Generative Adversarial Network can be found [paper](https://ieeexplore.ieee.org/document/10096633) and [poster](https://drive.google.com/file/d/14BPsAW0_LiISXdNO0UGqlvYDm2i25_39/view?usp=sharing).
+
 We add GAN into this ReID model (AICITY2021_Track2_DMT),and our model is vehicle pose transform by generative adversarial network for ReID.
 AICITY2021_Track2_DMT is the 1st place solution of track2 (Vehicle Re-Identification) in the NVIDIA AI City Challenge at CVPR 2021 Workshop. 
 
