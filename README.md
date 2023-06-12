@@ -1,17 +1,24 @@
 # PTGAN
 Vehicle View Synthesis by Generative Adversarial Network, International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2023 (Accepted).
 
-Detailed information of Vehicle View Synthesis by Generative Adversarial Network can be found [paper](https://ieeexplore.ieee.org/document/10096633) and [poster](https://drive.google.com/file/d/14BPsAW0_LiISXdNO0UGqlvYDm2i25_39/view?usp=sharing).
+## Introduction
 
 We add GAN into this ReID model (AICITY2021_Track2_DMT),and our model is vehicle pose transform by generative adversarial network for ReID.
 AICITY2021_Track2_DMT is the 1st place solution of track2 (Vehicle Re-Identification) in the NVIDIA AI City Challenge at CVPR 2021 Workshop. 
-
-## Introduction
 
 **ReID Model Backbone** 
 AICITY2021_Track2_DMT: Detailed information of NVIDIA AI City Challenge 2021 can be found [here](https://www.aicitychallenge.org/).
 
 The code is modified from [AICITY2020_DMT_VehicleReID](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID), [TransReID]( https://github.com/heshuting555/TransReID ), [reid_strong baseline]( https://github.com/michuanhaohao/reid-strong-baseline ),and [AICITY2021_Track2_DMT](https://github.com/michuanhaohao/AICITY2021_Track2_DMT).
+
+
+## News
+
+2023/05/05 - We released detailed information of Vehicle View Synthesis by Generative Adversarial Network can be found [paper](https://ieeexplore.ieee.org/document/10096633) and [poster](https://drive.google.com/file/d/14BPsAW0_LiISXdNO0UGqlvYDm2i25_39/view?usp=sharing).
+
+2023/03/01 - Our lab CCUMVL released CCUMVL-Vehicle-ReID DATASET (Please click [here](https://ccumvllab.github.io/new-site/download.html) to the new webpage.)
+
+2023/02/17 - PTGAN: Vehicle View Synthesis by Generative Adversarial Network was accepted by ICASSP 2023.
 
 
 ## Get Started
@@ -265,3 +272,4 @@ If you find our work valuable for your research, we kindly request that you cons
   pages={1-5},
   doi={10.1109/ICASSP49357.2023.10096633}}
 ```
+
